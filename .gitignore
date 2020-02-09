@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore ignored_test.txt file 
+ignored_test.txt 
