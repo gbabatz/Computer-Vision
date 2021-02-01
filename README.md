@@ -1,2 +1,2 @@
 # Computer-Vision
-eece duth course of 7th semester 
+7th Semester, EECE DUTH Course  
